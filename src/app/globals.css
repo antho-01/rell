@@ -4,3 +4,7 @@
   scroll-behavior: smooth;
   list-style: none;
 }
+
+body {
+  font-size: 1.2rem;
+}

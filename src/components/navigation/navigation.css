@@ -1,0 +1,26 @@
+
+.Navigation {
+      display: flex;
+      justify-content: space-between;
+      padding: .5rem 10rem;
+      background: rgb(190, 205, 208);
+      align-items: center;
+}
+
+.NavigationLogoContainer {
+      position: relative;
+      width: 10rem;
+      height: 3.2rem;
+
+}
+
+.NavigationLogoContainer img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+}
+
+.NavigationList {
+      display: flex;
+      gap: 5rem;
+}

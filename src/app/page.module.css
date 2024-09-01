@@ -1,0 +1,12 @@
+.main {
+      text-align: center;
+}
+.heading2 {
+      text-align: center;
+      margin: 3rem 0;
+      font-size: 3rem;
+      border-left: 1px solid #008000;
+      display: inline-block;
+      padding-left: .5rem;
+      letter-spacing: 1rem;
+}
